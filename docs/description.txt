@@ -1,0 +1,1 @@
+Docs of the project: architecture diagram
